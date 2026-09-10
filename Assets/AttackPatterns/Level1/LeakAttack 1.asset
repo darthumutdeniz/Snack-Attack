@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79185510c499c6a449f88d3182a24342, type: 3}
+  m_Name: LeakAttack 1
+  m_EditorClassIdentifier: 
+  attackObject: {fileID: 1042204407583057610, guid: 4b154e86ff0d9ae42a692bd69f164691, type: 3}
+  moveSpeed: 1
+  damage: 10
+  attackDelay: 0
+  attackDelayVariation: 0.1
+  attackLifeTime: 40
+  delayBetweenAttacks: 10
+  numberOfAttacks: 60
+  distanceFromPlayer: 0
+  spawnPoint: {fileID: 4146921712132106614, guid: 725bff7d320e2cb4a8a462d9a2f93333, type: 3}
+  oriantationInAngles: 0
