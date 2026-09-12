@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "files.exclude": {
         "**/.DS_Store": true,
         "**/.git": true,
@@ -56,3 +57,21 @@
     },
     "dotnet.defaultSolution": "Snack Attack.slnx"
 }
+=======
+  "files.exclude": {
+    "**/Library": true,
+    "**/Temp": true,
+    "**/Obj": true,
+    "**/Logs": true,
+    "**/UserSettings": true
+  },
+  "search.exclude": {
+    "**/Library": true,
+    "**/Temp": true,
+    "**/Obj": true,
+    "**/Logs": true,
+    "**/UserSettings": true
+  }
+}
+
+>>>>>>> 2402bb9aa38507723a03307a0ba5300438500cd6
